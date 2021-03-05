@@ -1,11 +1,13 @@
-# elomari
-### Hi there 👋, I'm Rachid El Omari
-#### Data Science and Development
 ![Data Science and Development](https://www.linkedin.com/in/elomarirachid/)
 
+### Hi there 👋, I'm Rachid El Omari
 I'm Rachid el Omari from morocco and a student at Specialized Institute of Applied Technology Mohammadia. I really enjoy learning my specialized Data Science and development with python. 
 
-Skills: Python / SQL 
+## Secialized and Sills
+* ⚛ Data Science 
+* 🐍 Python
+* ⌨️ SQL
+
 
 - 🔭 I’m currently working on this page. 
 - 
