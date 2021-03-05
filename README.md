@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Rachid El Omari
 I'm Rachid el Omari from morocco and a student at Specialized Institute of Applied Technology Mohammadia. I really enjoy learning my specialized Data Science and development with python. 
 
-## Secialized and Sills
+## Secialized and Skills
 * ⚛ Data Science 
 * 🐍 Python
 * ⌨️ SQL
