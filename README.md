@@ -45,10 +45,10 @@
 
 ---
 #### GitHub Stats
-  <img align="left" alt="Rachid GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=elomarirachid&theme=dark&show_icons=true&hide_border=true" />
+  <img align="left" alt="Rachid GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=elomarirachid&theme=merko&show_icons=true&hide_border=true" />
 
 
-#### Profile visits
+#### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=elomarirachid.elomarirachid)
 
 
