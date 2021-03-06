@@ -52,7 +52,7 @@ No Activity tracked this Week
 ---
 #### GitHub Stats
   <img align="left" alt="Rachid GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=elomarirachid&theme=tokyonight&show_icons=true&hide_border=true" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 #### Profile Visits
