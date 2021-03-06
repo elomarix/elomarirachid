@@ -46,6 +46,8 @@
 ---
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
+### Profile visits
+![visitors](https://visitor-badge.glitch.me/badge?page_id=elomarirachid.elomarirachid)
 
 
 [website]: https://codeSTACKr.com
