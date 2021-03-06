@@ -44,10 +44,11 @@
 <br />
 
 ---
-  <img align="left" alt="Rachid GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=elomarirachid&theme=radical&show_icons=true&hide_border=true" />
+#### GitHub Stats
+  <img align="left" alt="Rachid GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=elomarirachid&theme=dark&show_icons=true&hide_border=true" />
 
 
-### Profile visits
+#### Profile visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=elomarirachid.elomarirachid)
 
 
