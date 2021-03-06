@@ -42,7 +42,9 @@
 
 <br />
 <br />
-
+#### Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 #### GitHub Stats
   <img align="left" alt="Rachid GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=elomarirachid&theme=tokyonight&show_icons=true&hide_border=true" />
