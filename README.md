@@ -14,19 +14,19 @@
 <br />
 <br />
 ---
-#### Coding Stats
+## Coding Stats
 <!--START_SECTION:waka-->
 ```
 Python       59 mins         ████████████████████████▓   98.81 % 
 ```
 <!--END_SECTION:waka-->
 ---
-#### GitHub Stats
+## GitHub Stats
   <img align="left" alt="Rachid GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=elomarirachid&theme=tokyonight&show_icons=true&hide_border=true" />
 
 
 
-#### Profile Visits
+## Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=elomarirachid.elomarirachid)
 
 
