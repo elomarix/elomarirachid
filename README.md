@@ -13,11 +13,12 @@
 
 <br />
 <br />
----
+
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```
 Python       59 mins         ████████████████████████▓   98.81 % 
+
 ```
 <!--END_SECTION:waka-->
 
