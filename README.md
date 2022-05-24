@@ -1,11 +1,11 @@
 ### Hi there, I'm Rachid El Omari 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Student,  Developer!
+## I'm a junior data scientist!
 
 - 🌱 I’m currently learning Data Scientist 'Python' 🤍
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love everything related to football
 
 
